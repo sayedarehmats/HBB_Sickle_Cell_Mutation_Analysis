@@ -75,7 +75,8 @@ I searched NCBI ClinVar for the same variant to examine its reported clinical si
 
 ### 5. Disease Mechanism Visualisation
 
-I created a diagram to explain how the amino acid change is connected to altered haemoglobin, fibre formation under low-oxygen conditions, and changes in red blood cell shape.Analysis of the HBB Gene and Sickle Cell Mutation.png
+I created a diagram to explain how the amino acid change is connected to altered haemoglobin, fibre formation under low-oxygen conditions, and changes in red blood cell shape. 
+https://github.com/sayedarehmats/HBB_Sickle_Cell_Mutation_Analysis/blob/c7454f19ca1ff3aa02c53c95bdbdf14d163845f6/Analysis%20of%20the%20HBB%20Gene%20and%20Sickle%20Cell%20Mutation.png
 
 ## Key Results
 
