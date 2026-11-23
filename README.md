@@ -1,4 +1,4 @@
-#  # Analysis of the HBB Gene and Sickle Cell Mutation
+#  Analysis of the HBB Gene and Sickle Cell Mutation
 
 ## Project Overview
 
